@@ -2732,7 +2732,7 @@
     (uuid 3a412d39-b470-4709-b211-ce3f2c94f9e5)
   )
   (text "Hacer los calculos para obtener R1 y Rv1. Tambien Rv2 y C2"
-    (at 49.53 20.32 0)
+    (at 46.99 20.32 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3f7e70a6-5f54-4da8-9c5c-2a8b4218eed9)
   )
@@ -5544,7 +5544,7 @@
     (property "Value" "Duty cicle" (at 40.64 53.975 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical" (at 43.18 52.07 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal" (at 43.18 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 43.18 52.07 0)

@@ -1,428 +1,743 @@
-102576290021004
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed
-single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm
-0
-1
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6
-single screw terminal block Metz Connect 360272, block size 4x4mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 131, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360272 size 4x4mm^2 drill 1.5mm pad 3mm
-0
-2
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360273_1x01_Horizontal_ScrewM2.6_WireProtection
-single screw terminal block Metz Connect 360273, block size 5x4mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 131, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360273 size 5x4mm^2 drill 1.5mm pad 3mm
-0
-2
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360291_1x01_Horizontal_ScrewM3.0_Boxed
-single screw terminal block Metz Connect 360291, block size 9x7.3mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360291 size 9x7.3mm^2 drill 1.5mm pad 3mm
-0
-2
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360322_1x01_Horizontal_ScrewM3.0_WireProtection
-single screw terminal block Metz Connect 360322, block size 6x4mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360322 size 6x4mm^2 drill 1.5mm pad 3mm
-0
-2
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
-single screw terminal block Metz Connect 360381, block size 5x5mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360381 size 5x5mm^2 drill 1.5mm pad 3mm
-0
-2
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360410_1x01_Horizontal_ScrewM3.0
-single screw terminal block Metz Connect 360410, block size 5x5mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 132, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360410 size 5x5mm^2 drill 1.5mm pad 3mm
-0
-2
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed
-single screw terminal block Metz Connect 360425, block size 9x9mm^2, drill diamater 1.6mm, 4 pads, pad diameter 3.2mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT single screw terminal block Metz Connect 360425 size 9x9mm^2 drill 1.6mm pad 3.2mm
-0
-4
-1
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type011_RT05502HBWC_1x02_P5.00mm_Horizontal
-terminal block Metz Connect Type011_RT05502HBWC, 2 pins, pitch 5mm, size 10x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type011_RT05502HBWC pitch 5mm size 10x10.5mm^2 drill 1.4mm pad 2.8mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type011_RT05503HBWC_1x03_P5.00mm_Horizontal
-terminal block Metz Connect Type011_RT05503HBWC, 3 pins, pitch 5mm, size 15x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type011_RT05503HBWC pitch 5mm size 15x10.5mm^2 drill 1.4mm pad 2.8mm
+178247323148178
+Potentiometer_THT
+Potentiometer_ACP_CA6-H2,5_Horizontal
+Potentiometer, horizontal, ACP CA6-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
+Potentiometer horizontal ACP CA6-H2,5
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type011_RT05504HBWC_1x04_P5.00mm_Horizontal
-terminal block Metz Connect Type011_RT05504HBWC, 4 pins, pitch 5mm, size 20x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type011_RT05504HBWC pitch 5mm size 20x10.5mm^2 drill 1.4mm pad 2.8mm
+Potentiometer_THT
+Potentiometer_ACP_CA9-H2,5_Horizontal
+Potentiometer, horizontal, ACP CA9-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer horizontal ACP CA9-H2,5
 0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type011_RT05505HBWC_1x05_P5.00mm_Horizontal
-terminal block Metz Connect Type011_RT05505HBWC, 5 pins, pitch 5mm, size 25x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type011_RT05505HBWC pitch 5mm size 25x10.5mm^2 drill 1.4mm pad 2.8mm
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA9-H3,8_Horizontal
+Potentiometer, horizontal, ACP CA9-H3,8, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer horizontal ACP CA9-H3,8
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA9-H5_Horizontal
+Potentiometer, horizontal, ACP CA9-H5, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer horizontal ACP CA9-H5
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA9-V10_Vertical
+Potentiometer, vertical, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer vertical ACP CA9-V10
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA9-V10_Vertical_Hole
+Potentiometer, vertical, shaft hole, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf
+Potentiometer vertical hole ACP CA9-V10
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14-H2,5_Horizontal
+Potentiometer, horizontal, ACP CA14-H2,5, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer horizontal ACP CA14-H2,5
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14-H4_Horizontal
+Potentiometer, horizontal, ACP CA14-H4, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer horizontal ACP CA14-H4
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14-H5_Horizontal
+Potentiometer, horizontal, ACP CA14-H5, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer horizontal ACP CA14-H5
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14V-15_Vertical
+Potentiometer, vertical, ACP CA14V-15, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer vertical ACP CA14V-15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_ACP_CA14V-15_Vertical_Hole
+Potentiometer, vertical, shaft hole, ACP CA14V-15, http://www.acptechnologies.com/wp-content/uploads/2017/10/03-ACP-CA14-CE14.pdf
+Potentiometer vertical hole ACP CA14V-15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
 0
 5
+3
+Potentiometer_THT
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
 5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type011_RT05506HBWC_1x06_P5.00mm_Horizontal
-terminal block Metz Connect Type011_RT05506HBWC, 6 pins, pitch 5mm, size 30x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type011_RT05506HBWC pitch 5mm size 30x10.5mm^2 drill 1.4mm pad 2.8mm
+3
+Potentiometer_THT
+Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
+Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm dual
+0
+8
+6
+Potentiometer_THT
+Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles
+Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm dual
+0
+8
+6
+Potentiometer_THT
+Potentiometer_Alps_RK09K_Single_Horizontal
+111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer horizontal Alps RK09K Single Snapin
+0
+5
+4
+Potentiometer_THT
+Potentiometer_Alps_RK09K_Single_Vertical
+113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer vertical Alps RK09K RK09D Single Snapin
+0
+5
+4
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Double_Horizontal
+122002H 122002L 12B0A4S 12B0A1V Potentiometer, horizontal, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer horizontal Alps RK09L Double
+0
+8
+7
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Double_Vertical
+1240015 1240019 12D0A1W 12D0A1T Potentiometer, vertical, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer vertical Alps RK09L Double
+0
+8
+7
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Single_Horizontal
+1120A5F 1120036 1120A0Z 112003S Potentiometer, horizontal, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer horizontal Alps RK09L Single
+0
+5
+4
+Potentiometer_THT
+Potentiometer_Alps_RK09L_Single_Vertical
+ 1140A5L 114001E 1140A2U 114001T Potentiometer, vertical, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
+Potentiometer vertical Alps RK09L Single
+0
+5
+4
+Potentiometer_THT
+Potentiometer_Alps_RK09Y11_Single_Horizontal
+Potentiometer, horizontal, Long Life, Alps RK09Y11 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09y11/rk09y11.pdf
+Potentiometer horizontal Alps RK09Y11 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Alps_RK097_Dual_Horizontal
+1210, Dual Pot, Horizontal, Alps RK097 Dual,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Dual
 0
 6
 6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type055_RT01502HDWU_1x02_P5.00mm_Horizontal
-terminal block Metz Connect Type055_RT01502HDWU, 2 pins, pitch 5mm, size 10x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310551_RT015xxHDWU_OFF-022723S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type055_RT01502HDWU pitch 5mm size 10x8mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Alps_RK097_Dual_Horizontal_Switch
+1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Dual Switch
 0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type055_RT01503HDWU_1x03_P5.00mm_Horizontal
-terminal block Metz Connect Type055_RT01503HDWU, 3 pins, pitch 5mm, size 15x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310551_RT015xxHDWU_OFF-022723S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type055_RT01503HDWU pitch 5mm size 15x8mm^2 drill 1.3mm pad 2.5mm
-0
-3
-3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type055_RT01504HDWU_1x04_P5.00mm_Horizontal
-terminal block Metz Connect Type055_RT01504HDWU, 4 pins, pitch 5mm, size 20x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310551_RT015xxHDWU_OFF-022723S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type055_RT01504HDWU pitch 5mm size 20x8mm^2 drill 1.3mm pad 2.5mm
-0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal
-terminal block Metz Connect Type059_RT06302HBWC, 2 pins, pitch 3.5mm, size 7x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type059_RT06302HBWC pitch 3.5mm size 7x6.5mm^2 drill 1.2mm pad 2.3mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type059_RT06303HBWC_1x03_P3.50mm_Horizontal
-terminal block Metz Connect Type059_RT06303HBWC, 3 pins, pitch 3.5mm, size 10.5x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type059_RT06303HBWC pitch 3.5mm size 10.5x6.5mm^2 drill 1.2mm pad 2.3mm
+8
+8
+Potentiometer_THT
+Potentiometer_Alps_RK097_Single_Horizontal
+1110, Single Pot, Horizontal, Alps RK097 Single,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal
-terminal block Metz Connect Type059_RT06304HBWC, 4 pins, pitch 3.5mm, size 14x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type059_RT06304HBWC pitch 3.5mm size 14x6.5mm^2 drill 1.2mm pad 2.3mm
-0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal
-terminal block Metz Connect Type059_RT06305HBWC, 5 pins, pitch 3.5mm, size 17.5x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type059_RT06305HBWC pitch 3.5mm size 17.5x6.5mm^2 drill 1.2mm pad 2.3mm
+Potentiometer_THT
+Potentiometer_Alps_RK097_Single_Horizontal_Switch
+1111-5R1211, Single Pot, Horizontal, Switch, Alps RK097 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Single Switch
 0
 5
 5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type059_RT06306HBWC_1x06_P3.50mm_Horizontal
-terminal block Metz Connect Type059_RT06306HBWC, 6 pins, pitch 3.5mm, size 21x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type059_RT06306HBWC pitch 3.5mm size 21x6.5mm^2 drill 1.2mm pad 2.3mm
+Potentiometer_THT
+Potentiometer_Alps_RK163_Dual_Horizontal
+12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
+Potentiometer horizontal Alps RK163 Dual
 0
 6
 6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type067_RT01902HDWC_1x02_P10.00mm_Horizontal
-terminal block Metz Connect Type067_RT01902HDWC, 2 pins, pitch 10mm, size 15.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type067_RT01902HDWC pitch 10mm size 15.8x8.2mm^2 drill 1.3mm pad 2.6mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type067_RT01903HDWC_1x03_P10.00mm_Horizontal
-terminal block Metz Connect Type067_RT01903HDWC, 3 pins, pitch 10mm, size 25.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type067_RT01903HDWC pitch 10mm size 25.8x8.2mm^2 drill 1.3mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Alps_RK163_Single_Horizontal
+1110U1Q 1110TNP 1110U2A 1110U0Q Potentiometer, horizontal, Alps RK163 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
+Potentiometer horizontal Alps RK163 Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type067_RT01904HDWC_1x04_P10.00mm_Horizontal
-terminal block Metz Connect Type067_RT01904HDWC, 4 pins, pitch 10mm, size 35.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type067_RT01904HDWC pitch 10mm size 35.8x8.2mm^2 drill 1.3mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Bourns_3005_Horizontal
+Potentiometer, horizontal, Bourns 3005, http://www.bourns.com/docs/Product-Datasheets/3005.pdf
+Potentiometer horizontal Bourns 3005
 0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3006P_Horizontal
+Potentiometer, horizontal, Bourns 3006P, https://www.bourns.com/docs/Product-Datasheets/3006.pdf
+Potentiometer horizontal Bourns 3006P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3006W_Horizontal
+Potentiometer, horizontal, Bourns 3006W, https://www.bourns.com/docs/Product-Datasheets/3006.pdf
+Potentiometer horizontal Bourns 3006W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3006Y_Horizontal
+Potentiometer, horizontal, Bourns 3006Y, https://www.bourns.com/docs/Product-Datasheets/3006.pdf
+Potentiometer horizontal Bourns 3006Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3009P_Horizontal
+Potentiometer, horizontal, Bourns 3009P, http://www.bourns.com/docs/Product-Datasheets/3009.pdf
+Potentiometer horizontal Bourns 3009P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3009Y_Horizontal
+Potentiometer, horizontal, Bourns 3009Y, http://www.bourns.com/docs/Product-Datasheets/3009.pdf
+Potentiometer horizontal Bourns 3009Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266P_Horizontal
+Potentiometer, horizontal, Bourns 3266P, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer horizontal Bourns 3266P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266W_Vertical
+Potentiometer, vertical, Bourns 3266W, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer vertical Bourns 3266W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266X_Horizontal
+Potentiometer, horizontal, Bourns 3266X, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer horizontal Bourns 3266X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266Y_Vertical
+Potentiometer, vertical, Bourns 3266Y, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer vertical Bourns 3266Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3266Z_Horizontal
+Potentiometer, horizontal, Bourns 3266Z, https://www.bourns.com/docs/Product-Datasheets/3266.pdf
+Potentiometer horizontal Bourns 3266Z
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3296P_Horizontal
+Potentiometer, horizontal, Bourns 3296P, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer horizontal Bourns 3296P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3296X_Horizontal
+Potentiometer, horizontal, Bourns 3296X, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer horizontal Bourns 3296X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3296Y_Vertical
+Potentiometer, vertical, Bourns 3296Y, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3296Z_Horizontal
+Potentiometer, horizontal, Bourns 3296Z, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer horizontal Bourns 3296Z
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299P_Horizontal
+Potentiometer, horizontal, Bourns 3299P, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer horizontal Bourns 3299P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299W_Vertical
+Potentiometer, vertical, Bourns 3299W, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer vertical Bourns 3299W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299X_Horizontal
+Potentiometer, horizontal, Bourns 3299X, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer horizontal Bourns 3299X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299Y_Vertical
+Potentiometer, vertical, Bourns 3299Y, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer vertical Bourns 3299Y
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3299Z_Horizontal
+Potentiometer, horizontal, Bourns 3299Z, https://www.bourns.com/pdfs/3299.pdf
+Potentiometer horizontal Bourns 3299Z
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339H_Vertical
+Potentiometer, vertical, Bourns 3339H, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339H
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339P_Vertical
+Potentiometer, vertical, Bourns 3339P, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339P_Vertical_HandSoldering
+Potentiometer, vertical, Bourns 3339P, hand-soldering, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339P hand-soldering
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339S_Horizontal
+Potentiometer, horizontal, Bourns 3339S, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer horizontal Bourns 3339S
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3339W_Horizontal
+Potentiometer, horizontal, Bourns 3339W, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer horizontal Bourns 3339W
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386C_Horizontal
+Potentiometer, horizontal, Bourns 3386C, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer horizontal Bourns 3386C
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386F_Vertical
+Potentiometer, vertical, Bourns 3386F, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386F
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386P_Vertical
+Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer vertical Bourns 3386P
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_3386X_Horizontal
+Potentiometer, horizontal, Bourns 3386X, https://www.bourns.com/pdfs/3386.pdf
+Potentiometer horizontal Bourns 3386X
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_PTA1543_Single_Slide
+Bourns single-gang slide potentiometer, 15.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 15.0mm
+0
+7
 4
+Potentiometer_THT
+Potentiometer_Bourns_PTA2043_Single_Slide
+Bourns single-gang slide potentiometer, 20.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 20.0mm
+0
+7
 4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type067_RT01905HDWC_1x05_P10.00mm_Horizontal
-terminal block Metz Connect Type067_RT01905HDWC, 5 pins, pitch 10mm, size 45.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type067_RT01905HDWC pitch 10mm size 45.8x8.2mm^2 drill 1.3mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Bourns_PTA3043_Single_Slide
+Bourns single-gang slide potentiometer, 30.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 30.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTA4543_Single_Slide
+Bourns single-gang slide potentiometer, 45.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 45.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTA6043_Single_Slide
+Bourns single-gang slide potentiometer, 60.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 60.0mm
+0
+7
+4
+Potentiometer_THT
+Potentiometer_Bourns_PTV09A-1_Single_Vertical
+Potentiometer, vertical, Bourns PTV09A-1 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer vertical Bourns PTV09A-1 Single
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Bourns_PTV09A-2_Single_Horizontal
+Potentiometer, horizontal, Bourns PTV09A-2 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer horizontal Bourns PTV09A-2 Single
 0
 5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal
-terminal block Metz Connect Type073_RT02602HBLU, 2 pins, pitch 5.08mm, size 10.2x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310731_RT026xxHBLU_OFF-022792U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type073_RT02602HBLU pitch 5.08mm size 10.2x11mm^2 drill 1.4mm pad 2.6mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type073_RT02603HBLU_1x03_P5.08mm_Horizontal
-terminal block Metz Connect Type073_RT02603HBLU, 3 pins, pitch 5.08mm, size 15.2x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310731_RT026xxHBLU_OFF-022792U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type073_RT02603HBLU pitch 5.08mm size 15.2x11mm^2 drill 1.4mm pad 2.6mm
+3
+Potentiometer_THT
+Potentiometer_Omeg_PC16BU_Horizontal
+Potentiometer, horizontal, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm
+Potentiometer horizontal Omeg PC16BU
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type086_RT03402HBLC_1x02_P3.81mm_Horizontal
-terminal block Metz Connect Type086_RT03402HBLC, 2 pins, pitch 3.81mm, size 7.51x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type086_RT03402HBLC pitch 3.81mm size 7.51x7.3mm^2 drill 0.7mm pad 1.4mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type086_RT03403HBLC_1x03_P3.81mm_Horizontal
-terminal block Metz Connect Type086_RT03403HBLC, 3 pins, pitch 3.81mm, size 11.3x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type086_RT03403HBLC pitch 3.81mm size 11.3x7.3mm^2 drill 0.7mm pad 1.4mm
+Potentiometer_THT
+Potentiometer_Omeg_PC16BU_Vertical
+Potentiometer, vertical, Omeg PC16BU, http://www.omeg.co.uk/pc6bubrc.htm
+Potentiometer vertical Omeg PC16BU
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type086_RT03404HBLC_1x04_P3.81mm_Horizontal
-terminal block Metz Connect Type086_RT03404HBLC, 4 pins, pitch 3.81mm, size 15.1x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type086_RT03404HBLC pitch 3.81mm size 15.1x7.3mm^2 drill 0.7mm pad 1.4mm
-0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type086_RT03405HBLC_1x05_P3.81mm_Horizontal
-terminal block Metz Connect Type086_RT03405HBLC, 5 pins, pitch 3.81mm, size 18.9x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type086_RT03405HBLC pitch 3.81mm size 18.9x7.3mm^2 drill 0.7mm pad 1.4mm
-0
-5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type086_RT03406HBLC_1x06_P3.81mm_Horizontal
-terminal block Metz Connect Type086_RT03406HBLC, 6 pins, pitch 3.81mm, size 22.8x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type086_RT03406HBLC pitch 3.81mm size 22.8x7.3mm^2 drill 0.7mm pad 1.4mm
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Dual_Horizontal
+Potentiometer, horizontal, Piher PC-16 Dual, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal Piher PC-16 Dual
 0
 6
 6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal
-terminal block Metz Connect Type094_RT03502HBLU, 2 pins, pitch 5mm, size 10x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type094_RT03502HBLU pitch 5mm size 10x8.3mm^2 drill 1.3mm pad 2.6mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type094_RT03503HBLU_1x03_P5.00mm_Horizontal
-terminal block Metz Connect Type094_RT03503HBLU, 3 pins, pitch 5mm, size 15x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type094_RT03503HBLU pitch 5mm size 15x8.3mm^2 drill 1.3mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Single_Horizontal
+Potentiometer, horizontal, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal Piher PC-16 Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type094_RT03504HBLU_1x04_P5.00mm_Horizontal
-terminal block Metz Connect Type094_RT03504HBLU, 4 pins, pitch 5mm, size 20x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type094_RT03504HBLU pitch 5mm size 20x8.3mm^2 drill 1.3mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Single_Vertical
+Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer vertical Piher PC-16 Single
 0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type094_RT03505HBLU_1x05_P5.00mm_Horizontal
-terminal block Metz Connect Type094_RT03505HBLU, 5 pins, pitch 5mm, size 25x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type094_RT03505HBLU pitch 5mm size 25x8.3mm^2 drill 1.3mm pad 2.6mm
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PC-16_Triple_Horizontal
+Potentiometer, horizontal, Piher PC-16 Triple, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer horizontal Piher PC-16 Triple
 0
-5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type094_RT03506HBLU_1x06_P5.00mm_Horizontal
-terminal block Metz Connect Type094_RT03506HBLU, 6 pins, pitch 5mm, size 30x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type094_RT03506HBLU pitch 5mm size 30x8.3mm^2 drill 1.3mm pad 2.6mm
+9
+9
+Potentiometer_THT
+Potentiometer_Piher_PT-6-H_Horizontal
+Potentiometer, horizontal, Piher PT-6-H, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer horizontal Piher PT-6-H
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-6-V_Vertical
+Potentiometer, vertical, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer vertical Piher PT-6-V
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-6-V_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf
+Potentiometer vertical hole Piher PT-6-V
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-H01_Horizontal
+Potentiometer, horizontal, Piher PT-10-H01, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer horizontal Piher PT-10-H01
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-H05_Horizontal
+Potentiometer, horizontal, Piher PT-10-H05, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer horizontal Piher PT-10-H05
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-V05_Vertical
+Potentiometer, vertical, Piher PT-10-V05, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical Piher PT-10-V05
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-V10_Vertical
+Potentiometer, vertical, Piher PT-10-V10, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical Piher PT-10-V10
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-10-V10_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-10-V10, http://www.piher-nacesa.com/pdf/12-PT10v03.pdf
+Potentiometer vertical hole Piher PT-10-V10
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H01_Horizontal
+Potentiometer, horizontal, Piher PT-15-H01, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H01
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H05_Horizontal
+Potentiometer, horizontal, Piher PT-15-H05, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H05
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H06_Horizontal
+Potentiometer, horizontal, Piher PT-15-H06, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H06
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-H25_Horizontal
+Potentiometer, horizontal, Piher PT-15-H25, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer horizontal Piher PT-15-H25
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V02_Vertical
+Potentiometer, vertical, Piher PT-15-V02, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical Piher PT-15-V02
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V02_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-15-V02, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical hole Piher PT-15-V02
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V15_Vertical
+Potentiometer, vertical, Piher PT-15-V15, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical Piher PT-15-V15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_PT-15-V15_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher PT-15-V15, http://www.piher-nacesa.com/pdf/14-PT15v03.pdf
+Potentiometer vertical hole Piher PT-15-V15
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Piher_T-16H_Double_Horizontal
+Potentiometer, horizontal, Piher T-16H Double, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
+Potentiometer horizontal Piher T-16H Double
 0
 6
 6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type101_RT01602HBWC_1x02_P5.08mm_Horizontal
-terminal block Metz Connect Type101_RT01602HBWC, 2 pins, pitch 5.08mm, size 10.2x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type101_RT01602HBWC pitch 5.08mm size 10.2x8mm^2 drill 1.3mm pad 2.5mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type101_RT01603HBWC_1x03_P5.08mm_Horizontal
-terminal block Metz Connect Type101_RT01603HBWC, 3 pins, pitch 5.08mm, size 15.2x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type101_RT01603HBWC pitch 5.08mm size 15.2x8mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Piher_T-16H_Single_Horizontal
+Potentiometer, horizontal, Piher T-16H Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
+Potentiometer horizontal Piher T-16H Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal
-terminal block Metz Connect Type101_RT01604HBWC, 4 pins, pitch 5.08mm, size 20.3x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type101_RT01604HBWC pitch 5.08mm size 20.3x8mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Piher_T-16L_Single_Vertical_Hole
+Potentiometer, vertical, shaft hole, Piher T-16L Single, http://www.piher-nacesa.com/pdf/22-T16v03.pdf
+Potentiometer vertical hole Piher T-16L Single
 0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
-terminal block Metz Connect Type101_RT01605HBWC, 5 pins, pitch 5.08mm, size 25.4x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type101_RT01605HBWC pitch 5.08mm size 25.4x8mm^2 drill 1.3mm pad 2.5mm
+3
+3
+Potentiometer_THT
+Potentiometer_Runtron_RM-063_Horizontal
+Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf
+Potentiometer Trimmer RM-063
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Runtron_RM-065_Vertical
+Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf
+Potentiometer Trimmer RM-065
+0
+3
+3
+Potentiometer_THT
+Potentiometer_TT_P0915N
+http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_PanelPot_P09xSeries.pdf
+potentiometer vertical TT P0915N single
 0
 5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type101_RT01606HBWC_1x06_P5.08mm_Horizontal
-terminal block Metz Connect Type101_RT01606HBWC, 6 pins, pitch 5.08mm, size 30.5x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type101_RT01606HBWC pitch 5.08mm size 30.5x8mm^2 drill 1.3mm pad 2.5mm
+3
+Potentiometer_THT
+Potentiometer_Vishay_43_Horizontal
+Potentiometer, horizontal, Vishay 43, http://www.vishay.com/docs/57026/43.pdf
+Potentiometer horizontal Vishay 43
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_148-149_Dual_Horizontal
+Potentiometer, horizontal, Vishay 148-149 Dual, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148-149 Dual
 0
 6
 6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type171_RT13702HBWC_1x02_P7.50mm_Horizontal
-terminal block Metz Connect Type171_RT13702HBWC, 2 pins, pitch 7.5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type171_RT13702HBWC pitch 7.5mm size 15x9mm^2 drill 1.3mm pad 2.5mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type171_RT13703HBWC_1x03_P7.50mm_Horizontal
-terminal block Metz Connect Type171_RT13703HBWC, 3 pins, pitch 7.5mm, size 22.5x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type171_RT13703HBWC pitch 7.5mm size 22.5x9mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Vishay_148-149_Single_Horizontal
+Potentiometer, horizontal, Vishay 148-149 Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148-149 Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type171_RT13704HBWC_1x04_P7.50mm_Horizontal
-terminal block Metz Connect Type171_RT13704HBWC, 4 pins, pitch 7.5mm, size 30x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type171_RT13704HBWC pitch 7.5mm size 30x9mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Vishay_148-149_Single_Vertical
+Potentiometer, vertical, Vishay 148-149 Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer vertical Vishay 148-149 Single
 0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type171_RT13705HBWC_1x05_P7.50mm_Horizontal
-terminal block Metz Connect Type171_RT13705HBWC, 5 pins, pitch 7.5mm, size 37.5x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type171_RT13705HBWC pitch 7.5mm size 37.5x9mm^2 drill 1.3mm pad 2.5mm
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_148E-149E_Dual_Horizontal
+Potentiometer, horizontal, Vishay 148E-149E Dual, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148E-149E Dual
 0
-5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type171_RT13706HBWC_1x06_P7.50mm_Horizontal
-terminal block Metz Connect Type171_RT13706HBWC, 6 pins, pitch 7.5mm, size 45x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type171_RT13706HBWC pitch 7.5mm size 45x9mm^2 drill 1.3mm pad 2.5mm
-0
+10
 6
-6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
-terminal block Metz Connect Type175_RT02702HBLC, 2 pins, pitch 7.5mm, size 15x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type175_RT02702HBLC pitch 7.5mm size 15x11mm^2 drill 1.4mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Vishay_148E-149E_Single_Horizontal
+Potentiometer, horizontal, Vishay 148E-149E Single, http://www.vishay.com/docs/57040/148149.pdf
+Potentiometer horizontal Vishay 148E-149E Single
 0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal
-terminal block Metz Connect Type175_RT02703HBLC, 3 pins, pitch 7.5mm, size 22.5x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type175_RT02703HBLC pitch 7.5mm size 22.5x11mm^2 drill 1.4mm pad 2.6mm
+7
+3
+Potentiometer_THT
+Potentiometer_Vishay_248BH-249BH_Single_Horizontal
+Potentiometer, horizontal, Vishay 248BH-249BH Single, http://www.vishay.com/docs/57054/248249.pdf
+Potentiometer horizontal Vishay 248BH-249BH Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type175_RT02704HBLC_1x04_P7.50mm_Horizontal
-terminal block Metz Connect Type175_RT02704HBLC, 4 pins, pitch 7.5mm, size 30x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type175_RT02704HBLC pitch 7.5mm size 30x11mm^2 drill 1.4mm pad 2.6mm
-0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type175_RT02705HBLC_1x05_P7.50mm_Horizontal
-terminal block Metz Connect Type175_RT02705HBLC, 5 pins, pitch 7.5mm, size 37.5x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type175_RT02705HBLC pitch 7.5mm size 37.5x11mm^2 drill 1.4mm pad 2.6mm
-0
-5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type175_RT02706HBLC_1x06_P7.50mm_Horizontal
-terminal block Metz Connect Type175_RT02706HBLC, 6 pins, pitch 7.5mm, size 45x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type175_RT02706HBLC pitch 7.5mm size 45x11mm^2 drill 1.4mm pad 2.6mm
-0
-6
-6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type205_RT04502UBLC_1x02_P5.00mm_45Degree
-terminal block Metz Connect Type205_RT04502UBLC, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 10x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type205_RT04502UBLC 45Degree pitch 5mm size 10x12.5mm^2 drill 1.4mm pad 2.7mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type205_RT04503UBLC_1x03_P5.00mm_45Degree
-terminal block Metz Connect Type205_RT04503UBLC, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 15x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type205_RT04503UBLC 45Degree pitch 5mm size 15x12.5mm^2 drill 1.4mm pad 2.7mm
+Potentiometer_THT
+Potentiometer_Vishay_248GJ-249GJ_Single_Horizontal
+Potentiometer, horizontal, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf
+Potentiometer horizontal Vishay 248GJ-249GJ Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree
-terminal block Metz Connect Type205_RT04504UBLC, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 20x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type205_RT04504UBLC 45Degree pitch 5mm size 20x12.5mm^2 drill 1.4mm pad 2.7mm
-0
-4
-4
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type205_RT04505UBLC_1x05_P5.00mm_45Degree
-terminal block Metz Connect Type205_RT04505UBLC, 45Degree (cable under 45degree), 5 pins, pitch 5mm, size 25x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type205_RT04505UBLC 45Degree pitch 5mm size 25x12.5mm^2 drill 1.4mm pad 2.7mm
-0
-5
-5
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree
-terminal block Metz Connect Type205_RT04506UBLC, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 30x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type205_RT04506UBLC 45Degree pitch 5mm size 30x12.5mm^2 drill 1.4mm pad 2.7mm
-0
-6
-6
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type701_RT11L02HGLU_1x02_P6.35mm_Horizontal
-terminal block Metz Connect Type701_RT11L02HGLU, 2 pins, pitch 6.35mm, size 12.7x12.5mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317011_RT11LxxHGLU_OFF-022798U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type701_RT11L02HGLU pitch 6.35mm size 12.7x12.5mm^2 drill 1.3mm pad 2.5mm
-0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
-terminal block Metz Connect Type701_RT11L03HGLU, 3 pins, pitch 6.35mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317011_RT11LxxHGLU_OFF-022798U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type701_RT11L03HGLU pitch 6.35mm size 19x12.5mm^2 drill 1.3mm pad 2.5mm
+Potentiometer_THT
+Potentiometer_Vishay_248GJ-249GJ_Single_Vertical
+Potentiometer, vertical, Vishay 248GJ-249GJ Single, http://www.vishay.com/docs/57054/248249.pdf
+Potentiometer vertical Vishay 248GJ-249GJ Single
 0
 3
 3
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type703_RT10N02HGLU_1x02_P9.52mm_Horizontal
-terminal block Metz Connect Type703_RT10N02HGLU, 2 pins, pitch 9.52mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type703_RT10N02HGLU pitch 9.52mm size 19x12.5mm^2 drill 1.3mm pad 2.6mm
+Potentiometer_THT
+Potentiometer_Vishay_T7-YA_Single_Vertical
+Potentiometer, vertical, Vishay T7-YA Single, http://www.vishay.com/docs/51015/t7.pdf
+Potentiometer vertical Vishay T7-YA Single
 0
-2
-2
-TerminalBlock_MetzConnect
-TerminalBlock_MetzConnect_Type703_RT10N03HGLU_1x03_P9.52mm_Horizontal
-terminal block Metz Connect Type703_RT10N03HGLU, 3 pins, pitch 9.52mm, size 28.6x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
-THT terminal block Metz Connect Type703_RT10N03HGLU pitch 9.52mm size 28.6x12.5mm^2 drill 1.3mm pad 2.6mm
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_T73XW_Horizontal
+Potentiometer, horizontal, Vishay T73XW, http://www.vishay.com/docs/51016/t73.pdf
+Potentiometer horizontal Vishay T73XW
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_T73XX_Horizontal
+Potentiometer, horizontal, Vishay T73XX, http://www.vishay.com/docs/51016/t73.pdf
+Potentiometer horizontal Vishay T73XX
+0
+3
+3
+Potentiometer_THT
+Potentiometer_Vishay_T73YP_Vertical
+Potentiometer, vertical, Vishay T73YP, http://www.vishay.com/docs/51016/t73.pdf
+Potentiometer vertical Vishay T73YP
 0
 3
 3
